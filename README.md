@@ -40,7 +40,7 @@ MathLib-JS n'utilise actuellement pas de package manager.
 Clonez simplement le projet :
 
 ```bash
-git clone https://github.com/Unnread/MathLib-JS.git
+git clone https://github.com/unnread/MathLib-JS.git
 ```
 
 Puis importez les modules dont vous avez besoin.
