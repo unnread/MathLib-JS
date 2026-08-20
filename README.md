@@ -2,8 +2,6 @@
 
 **🇫🇷 Français | 🇬🇧 English**
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-
 ---
 
 ## 🇫🇷 Français
